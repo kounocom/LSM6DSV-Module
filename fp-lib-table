@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LSM6DSV Footprints")(type "KiCad")(uri "${KIPRJMOD}/Data/LSM6DSV Footprints.pretty")(options "")(descr ""))
+)

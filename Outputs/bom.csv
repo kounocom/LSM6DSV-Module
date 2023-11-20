@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",603,2,100nF,C14663
+"R1, R2, R3, R4",603,4,4k7,C23162
+U1,Bosch_LGA-14_3x2.5mm_P0.5mm,1,LSM6DSV,C5267406

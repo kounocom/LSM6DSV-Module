@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LSM6DSV Symbols")(type "KiCad")(uri "${KIPRJMOD}/Data/LSM6DSV Symbols.kicad_sym")(options "")(descr ""))
+)
